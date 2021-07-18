@@ -1,4 +1,3 @@
-### *I'm not longer seeking employment, but I'm leaving this here as an example for others to borrow*
 
 ## Hire Onke Fanti
 
