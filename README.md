@@ -10,8 +10,8 @@ I'm **Onke** 👋 , a Junior Web developer and a Security enthusiat with over 2 
 * **Employment Type:** Full time, Internship or Contract
 * **Example Roles:** Junior-Midlevel Web Developer, Junior Pentester. Intern
 
-Please checkout my basic website with HTML, CSS and JavaScipt, **directly available [online](https://0nk3.github.io) 
-If you’re looking for great and talented junior developer, please dont hesitate to communicate with email
+Please checkout my basic website with HTML, CSS and JavaScipt, **directly available [online](https://0nk3.github.io)
+**If you’re looking for great and talented junior developer, please dont hesitate to communicate with email
 
 ## I have working knowledge and experience on the ff[but not limited to] :
 
