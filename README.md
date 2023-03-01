@@ -1,7 +1,7 @@
 
 ## Hire Onke Fanti
 
-I'm **Onke** 👋 , a Junior-Mid Web developer and a Security enthusiat with over 2 years of experience in web development. I've been an active member of the open source community since 2017. I am a strong advocate for DevSecOps.
+I'm **Onke** 👋 , a Junior-Mid Web developer and a Security enthusiat with over 3+ years of experience in web development. I've been an active member of the open source community since 2017. I am a strong advocate for DevSecOps.
 
 
 **And I'm casually looking for my next opportunity!**
